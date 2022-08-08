@@ -2,6 +2,7 @@
 Library To Control LCD (character LCD, text-based LCDs) In Nanoframework
 
 (Lcd.c , Lcd.h in nanoframework)
+(Lcd in Nanoframework, Lcd textBase in nanoframework , Char Lcd In Nanoframework)
 
 Sampel:
 ```
