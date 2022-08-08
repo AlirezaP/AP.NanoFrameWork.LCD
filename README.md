@@ -1,7 +1,7 @@
 # AP.NanoFrameWork.LCD
 Library To Control LCD (character LCD, text-based LCDs) In Nanoframework
 
-(Lcd.h)
+(Lcd.c , Lcd.h in nanoframework)
 
 Sampel:
 ```
